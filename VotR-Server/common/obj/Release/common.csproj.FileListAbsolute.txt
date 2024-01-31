@@ -23,3 +23,12 @@ C:\Users\user01\Desktop\VotR-Server2\VotR-Server\common\obj\Release\common.cspro
 C:\Users\user01\Desktop\VotR-Server2\VotR-Server\common\obj\Release\common.csproj.CopyComplete
 C:\Users\user01\Desktop\VotR-Server2\VotR-Server\common\obj\Release\common.dll
 C:\Users\user01\Desktop\VotR-Server2\VotR-Server\common\obj\Release\common.pdb
+D:\ult S repo\Valor-Server\VotR-Server\bin\log4net.config
+D:\ult S repo\Valor-Server\VotR-Server\bin\common.dll.config
+D:\ult S repo\Valor-Server\VotR-Server\bin\common.dll
+D:\ult S repo\Valor-Server\VotR-Server\bin\common.pdb
+D:\ult S repo\Valor-Server\VotR-Server\common\obj\Release\common.csproj.AssemblyReference.cache
+D:\ult S repo\Valor-Server\VotR-Server\common\obj\Release\common.csproj.CoreCompileInputs.cache
+D:\ult S repo\Valor-Server\VotR-Server\common\obj\Release\common.csproj.CopyComplete
+D:\ult S repo\Valor-Server\VotR-Server\common\obj\Release\common.dll
+D:\ult S repo\Valor-Server\VotR-Server\common\obj\Release\common.pdb

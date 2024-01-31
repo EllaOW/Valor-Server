@@ -23,3 +23,12 @@ C:\Users\user01\Desktop\VotR-Server2\VotR-Server\RemoteLogger\obj\Release\Remote
 C:\Users\user01\Desktop\VotR-Server2\VotR-Server\RemoteLogger\obj\Release\RemoteLogger.csproj.CopyComplete
 C:\Users\user01\Desktop\VotR-Server2\VotR-Server\RemoteLogger\obj\Release\RemoteLogger.exe
 C:\Users\user01\Desktop\VotR-Server2\VotR-Server\RemoteLogger\obj\Release\RemoteLogger.pdb
+D:\ult S repo\Valor-Server\VotR-Server\bin\log4net_rl.config
+D:\ult S repo\Valor-Server\VotR-Server\bin\RemoteLogger.exe.config
+D:\ult S repo\Valor-Server\VotR-Server\bin\RemoteLogger.exe
+D:\ult S repo\Valor-Server\VotR-Server\bin\RemoteLogger.pdb
+D:\ult S repo\Valor-Server\VotR-Server\RemoteLogger\obj\Release\RemoteLogger.csproj.AssemblyReference.cache
+D:\ult S repo\Valor-Server\VotR-Server\RemoteLogger\obj\Release\RemoteLogger.csproj.CoreCompileInputs.cache
+D:\ult S repo\Valor-Server\VotR-Server\RemoteLogger\obj\Release\RemoteLogger.csproj.CopyComplete
+D:\ult S repo\Valor-Server\VotR-Server\RemoteLogger\obj\Release\RemoteLogger.exe
+D:\ult S repo\Valor-Server\VotR-Server\RemoteLogger\obj\Release\RemoteLogger.pdb
